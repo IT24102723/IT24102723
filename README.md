@@ -47,7 +47,6 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 
 ## 📊 Status & Overview
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-IT24102723-blue?style=for-the-badge&logo=github" /> &nbsp;
   <img src="https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge&logo=git" /> &nbsp;
   <img src="https://img.shields.io/badge/Focus-3rd_Year_Internship-orange?style=for-the-badge" />
 </p>
