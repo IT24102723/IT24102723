@@ -55,8 +55,7 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 
 ## 🌐 Let's Connect & Collaborate
 <p align="center">
-  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
-  <a href="mailto:desilvathisaja@gmail.com">📧 desilvathisaja@gmail.com</a> • 
-  <span>📞 +94 76 059 5500</span>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
