@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
   <a href="mailto:desilvathisaja@gmail.com">📧 Email</a>
 </p>
 
@@ -47,7 +47,7 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 
 ## 📊 Status & Overview
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-IT24102723-blue?style=for-the-badge&logo=github" /> &nbsp;
+  <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-IT24102723-blue?style=for-the-badge&logo=github" /></a> &nbsp;
   <img src="https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge&logo=git" /> &nbsp;
   <img src="https://img.shields.io/badge/Focus-3rd_Year_Internship-orange?style=for-the-badge" />
 </p>
@@ -57,6 +57,6 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 ## 🌐 Let's Connect & Collaborate
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
