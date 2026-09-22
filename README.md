@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Thisaja+Silva;IT+Undergraduate+rumeth%40SLIIT;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Thisaja+Silva;IT+Undergraduate+@+SLIIT;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" /></a> &nbsp;
-  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ff5555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -58,8 +58,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff79c6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff79c6" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc" />
 </p>
 
 ---
@@ -67,7 +68,7 @@
 ## 🌐 Let's Connect & Collaborate
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" /></a> &nbsp;
-  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-ff5555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
