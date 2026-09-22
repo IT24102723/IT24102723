@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
   <a href="mailto:desilvathisaja@gmail.com">📧 Email</a>
 </p>
 
@@ -45,17 +45,18 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Status & Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-IT24102723-blue?style=for-the-badge&logo=github" /> &nbsp;
+  <img src="https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge&logo=git" /> &nbsp;
+  <img src="https://img.shields.io/badge/Focus-3rd_Year_Internship-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌐 Let's Connect & Collaborate
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
