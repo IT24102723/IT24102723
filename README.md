@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Thisaja+Silva;SLIIT+3rd+Year+IT+Undergraduate;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hi+%F0%9F%91%8B%2C+I'm+Thisaja+Silva;SLIIT+3rd+Year+IT+Undergraduate;Full-Stack+%26+Mobile+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Holographic_Site-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
+  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
   <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-IT24102723-30363d?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-d97706?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -48,6 +48,17 @@
 | **Home Tutor Booking** | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Group Project |
 | **University Help Desk** | Internal ticketing & student support system | Java, MySQL | Group Project |
 | **Fruit Ripeness AI** | Computer vision classifier for quality analysis | Python, OpenCV | Group Project |
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
