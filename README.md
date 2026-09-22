@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
   <a href="mailto:desilvathisaja@gmail.com">📧 Email</a>
 </p>
 
@@ -40,7 +40,7 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 | **TourismSL** | Sri Lanka Tourism Web Platform | HTML5, CSS3, JS, Node.js, Express, MongoDB | [Repo](https://github.com/IT24102723/TourismSL) |
 | **Tourism Management App** | Cross-platform Mobile App & REST API | React Native, Node.js, Express, AsyncStorage | [Repo](https://github.com/IT24102723/tourism-management-app) |
 | **Home Tutor Booking System** | SLIIT Group Web App for Tutoring | Java, MySQL, HTML5, CSS3 | Group Project |
-| **University Help Desk System** | SLIITGroup Ticketing Platform | Java, MySQL | Group Project |
+| **University Help Desk System** | SLIIT Group Ticketing Platform | Java, MySQL | Group Project |
 | **Fruit Ripeness Detection** | AI/ML Computer Vision Classifier | Python, OpenCV | Group Project |
 
 ---
@@ -55,8 +55,11 @@ Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Seme
 ---
 
 ## 🌐 Let's Connect & Collaborate
+I'm always open to discussing new software projects, internship opportunities, or tech discussions!
+
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
