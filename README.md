@@ -30,6 +30,10 @@
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,ts,react,reactnative,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel&theme=dark" />
+</p>
+
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java (OOP), Python, C, JavaScript (ES6+) |
@@ -40,18 +44,23 @@
 
 ---
 
-## 💎 Featured Engineering Projects & Animated Previews
-| Project | Preview / Demo Animation | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| **TourismSL Platform** | 🌐 *Web Portal* | Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | [Repo](https://github.com/IT24102723/TourismSL) |
-| **Tourism Mobile App** | 📱 *App UI* | Cross-platform tourist attraction & tour manager | React Native, Node.js, AsyncStorage | [Repo](https://github.com/IT24102723/tourism-management-app) |
-| **Home Tutor Booking** | 🎓 *Booking* | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Group Project |
-| **University Help Desk** | 🎫 *Ticketing* | Internal ticketing & student support system | Java, MySQL | Group Project |
-| **Fruit Ripeness AI** | 🧠 *CV Model* | Computer vision classifier for quality analysis | Python, OpenCV | Group Project |
+## 💎 Featured Engineering Projects
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **TourismSL Platform** | Comprehensive Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | [Repo](https://github.com/IT24102723/TourismSL) |
+| **Tourism Management App** | Cross-platform tourist attraction & tour manager | React Native, Node.js, AsyncStorage | [Repo](https://github.com/IT24102723/tourism-management-app) |
+| **Home Tutor Booking** | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Group Project |
+| **University Help Desk** | Internal ticketing & student support system | Java, MySQL | Group Project |
+| **Fruit Ripeness AI** | Computer vision classifier for quality analysis | Python, OpenCV | Group Project |
 
 ---
 
-## 🐍 Live Activity Snake
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="48%" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
