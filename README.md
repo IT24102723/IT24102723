@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-IT24102723-30363d?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-d97706?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -24,23 +24,12 @@
 
 ---
 
-## 👨‍💻 Live Coding & Activity Simulation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave-animation.gif" width="600" alt="Coding Animation" />
-</p>
-
----
-
 ## 🎯 Career Objective & Focus
 > Passionate Information Technology undergraduate at **SLIIT** specializing in **Full-Stack Web Development, Cross-Platform Mobile Apps (React Native & Node.js), RDBMS/NoSQL Databases (MySQL, MongoDB)**, and **Computer Vision**. Focused on engineering scalable, enterprise-ready software solutions.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,ts,react,reactnative,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel&theme=dark" />
-</p>
-
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java (OOP), Python, C, JavaScript (ES6+) |
@@ -76,7 +65,7 @@
 ## 🌐 Let's Connect & Collaborate
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-IT24102723-30363d?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-d97706?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
