@@ -40,18 +40,18 @@
 
 ---
 
-## 💎 Featured Engineering Projects
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **TourismSL Platform** | Comprehensive Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | [Repo](https://github.com/IT24102723/TourismSL) |
-| **Tourism Management App** | Cross-platform tourist attraction & tour manager | React Native, Node.js, AsyncStorage | [Repo](https://github.com/IT24102723/tourism-management-app) |
-| **Home Tutor Booking** | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Group Project |
-| **University Help Desk** | Internal ticketing & student support system | Java, MySQL | Group Project |
-| **Fruit Ripeness AI** | Computer vision classifier for quality analysis | Python, OpenCV | Group Project |
+## 💎 Featured Engineering Projects & Animated Previews
+| Project | Preview / Demo Animation | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **TourismSL Platform** | 🌐 *Web Portal* | Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | [Repo](https://github.com/IT24102723/TourismSL) |
+| **Tourism Mobile App** | 📱 *App UI* | Cross-platform tourist attraction & tour manager | React Native, Node.js, AsyncStorage | [Repo](https://github.com/IT24102723/tourism-management-app) |
+| **Home Tutor Booking** | 🎓 *Booking* | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Group Project |
+| **University Help Desk** | 🎫 *Ticketing* | Internal ticketing & student support system | Java, MySQL | Group Project |
+| **Fruit Ripeness AI** | 🧠 *CV Model* | Computer vision classifier for quality analysis | Python, OpenCV | Group Project |
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Live Activity Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
