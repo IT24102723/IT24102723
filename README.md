@@ -1,64 +1,95 @@
-<h1 align="center">Hi 👋, I'm Thisaja Silva</h1>
-<h3 align="center">🎓 IT Undergraduate @ SLIIT • 💻 Full-Stack & Mobile Developer • 🚀 Aspiring Software Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Thisaja%20Silva&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20@%20SLIIT%20|%20Full-Stack%20&%20Mobile%20Developer&descSize=15&descAlignY=62" width="100%"/>
+</div>
 
 <p align="center">
-  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/thisajasilva">💼 LinkedIn</a> • 
-  <a href="mailto:desilvathisaja@gmail.com">📧 Email</a>
+  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">
+    <img src="https://img.shields.io/badge/⚡_Portfolio-Live_Demo-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/thisajasilva">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:desilvathisaja@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Direct-ff5555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+## ⚡ Quick Snapshot
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center"><b>🎓 University</b><br>SLIIT (3rd Year, 1st Sem)</td>
+      <td align="center"><b>💻 Core Stack</b><br>MERN • Java / Spring • React Native</td>
+      <td align="center"><b>🎯 Status</b><br>Open for 3rd-Year Internship</td>
+      <td align="center"><b>📍 Location</b><br>Kirillawala, Sri Lanka</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🎯 Career Objective & Focus
-Passionate Information Technology undergraduate at **SLIIT** (3rd Year, 1st Semester) specializing in Full-Stack Web Development, Mobile Applications (React Native & Node.js), Database Engineering (MySQL, MongoDB), and Computer Vision. Open for **3rd-year software engineering internship opportunities**.
+> Passionate Information Technology undergraduate at **SLIIT** specializing in **Full-Stack Web Development, Cross-Platform Mobile Apps (React Native & Node.js), RDBMS/NoSQL Databases (MySQL, MongoDB)**, and **Computer Vision**. Focused on engineering scalable systems and writing clean, enterprise-ready code.
 
 ---
 
-## 👤 About Me
-- 🎓 **Undergraduate:** BSc (Hons) in Information Technology @ **SLIIT**
-- 📍 **Location:** Kirillawala, Sri Lanka
-- 💻 **Primary Stack:** Full-Stack Web, React Native, Java (OOP), Python & AI/ML
-- ⚡ **Philosophy:** *"Clean code, seamless user experience, and continuous learning."*
+## 🛠️ Tech Stack & Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,reactnative,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8" />
+</div>
 
----
-
-## 🛠️ Tech Stack & Skills
-| Category | Technologies & Tools |
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Java (OOP), Python, C, JavaScript (ES6+) |
-| **Frontend & Web** | HTML5, CSS3, Responsive UI Design |
-| **Mobile Dev** | React Native & Expo |
-| **Backend & APIs** | Node.js, Express.js, REST APIs |
-| **Databases** | MySQL (Relational), MongoDB (NoSQL) |
-| **Developer Tools** | VS Code, Git, GitHub, Postman, MS Office |
+| **Languages & Logic** | Java (OOP), Python, C, JavaScript (ES6+) |
+| **Frontend & Mobile** | HTML5, CSS3, React Native & Expo |
+| **Backend & Cloud** | Node.js, Express.js, RESTful APIs, Vercel, Railway |
+| **Databases** | MySQL (Relational Schema & Indexing), MongoDB (NoSQL) |
+| **Tools & Workflow** | Git, GitHub, VS Code, Postman, MS Office Suite |
 
 ---
 
-## 💎 Featured Projects
-| Project | Description | Tech Stack | Links |
+## 💎 Featured Engineering Projects
+| Project | Description | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **TourismSL** | Sri Lanka Tourism Web Platform | HTML5, CSS3, JS, Node.js, Express, MongoDB | [Repo](https://github.com/IT24102723/TourismSL) |
-| **Tourism Management App** | Cross-platform Mobile App & REST API | React Native, Node.js, Express, AsyncStorage | [Repo](https://github.com/IT24102723/tourism-management-app) |
-| **Home Tutor Booking System** | SLIIT Group Web App for Tutoring | Java, MySQL, HTML5, CSS3 | Group Project |
-| **University Help Desk System** | SLIIT Group Ticketing Platform | Java, MySQL | Group Project |
-| **Fruit Ripeness Detection** | AI/ML Computer Vision Classifier | Python, OpenCV | Group Project |
+| **[TourismSL Platform](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | Comprehensive Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | Full-Stack REST API & Catalog |
+| **[Tourism Mobile App](https://github.com/IT24102723/tourism-management-app)** | Cross-platform tourist attraction & tour manager | React Native, Node.js, AsyncStorage | Custom REST API Backend |
+| **[Home Tutor Booking](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Multi-role Auth & Search |
+| **[University Help Desk](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | Internal ticketing & student support system | Java, MySQL | Lifecycle Tracking |
+| **[Fruit Ripeness AI](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | Computer vision classifier for quality analysis | Python, OpenCV | SLIIT Group AI/ML |
 
 ---
 
-## 📊 Status & Overview
+## 📊 Activity & Status Overview
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge&logo=git" /> &nbsp;
-  <img src="https://img.shields.io/badge/Focus-3rd_Year_Internship-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE_&_CONSISTENT-00ffcc?style=for-the-badge&logo=git&logoColor=black" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TARGET-3RD_YEAR_INTERNSHIP_2026-ff79c6?style=for-the-badge&logo=target" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff79c6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc" width="48%" />
 </p>
 
 ---
 
 ## 🌐 Let's Connect & Collaborate
-I'm always open to discussing new software projects, internship opportunities, or tech discussions!
+<div align="center">
+  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/thisajasilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/IT24102723">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:desilvathisaja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff5555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /></a> &nbsp;
-  <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <i>💡 "Clean code, seamless user experience, and continuous learning."</i>
 </p>
