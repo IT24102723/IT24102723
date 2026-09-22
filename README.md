@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Thisaja%20Silva&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20@%20SLIIT%20|%20Full-Stack%20&%20Mobile%20Developer&descSize=15&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=160&section=header&text=Thisaja%20Silva&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20@%20SLIIT%20|%20Full-Stack%20&%20Mobile%20Developer&descSize=14&descAlignY=62" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/">
-    <img src="https://img.shields.io/badge/⚡_Portfolio-Live_Demo-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/⚡_Portfolio-Live_Website-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/thisajasilva">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,10 +36,6 @@
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,reactnative,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8" />
-</div>
-
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages & Logic** | Java (OOP), Python, C, JavaScript (ES6+) |
@@ -53,11 +49,11 @@
 ## 💎 Featured Engineering Projects
 | Project | Description | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[TourismSL Platform](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | Comprehensive Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | Full-Stack REST API & Catalog |
+| **[TourismSL Platform](https://github.com/IT24102723/TourismSL)** | Comprehensive Sri Lanka travel & booking portal | Node.js, Express, MongoDB, HTML/CSS | Full-Stack REST API & Catalog |
 | **[Tourism Mobile App](https://github.com/IT24102723/tourism-management-app)** | Cross-platform tourist attraction & tour manager | React Native, Node.js, AsyncStorage | Custom REST API Backend |
-| **[Home Tutor Booking](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Multi-role Auth & Search |
-| **[University Help Desk](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | Internal ticketing & student support system | Java, MySQL | Lifecycle Tracking |
-| **[Fruit Ripeness AI](https://it24102723.github.io/L.T.R.De.Silva-portfolio/#projects)** | Computer vision classifier for quality analysis | Python, OpenCV | SLIIT Group AI/ML |
+| **[Home Tutor Booking](https://it24102723.github.io/L.T.R.De.Silva-portfolio/)** | SLIIT group platform connecting tutors/students | Java, MySQL, HTML5/CSS3 | Multi-role Auth & Search |
+| **[University Help Desk](https://it24102723.github.io/L.T.R.De.Silva-portfolio/)** | Internal ticketing & student support system | Java, MySQL | Lifecycle Tracking |
+| **[Fruit Ripeness AI](https://it24102723.github.io/L.T.R.De.Silva-portfolio/)** | Computer vision classifier for quality analysis | Python, OpenCV | SLIIT Group AI/ML |
 
 ---
 
@@ -65,11 +61,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE_&_CONSISTENT-00ffcc?style=for-the-badge&logo=git&logoColor=black" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TARGET-3RD_YEAR_INTERNSHIP_2026-ff79c6?style=for-the-badge&logo=target" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff79c6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc" width="48%" />
 </p>
 
 ---
