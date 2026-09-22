@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-IT24102723-30363d?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-d97706?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -30,10 +30,6 @@
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,ts,react,reactnative,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel&theme=dark" />
-</p>
-
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java (OOP), Python, C, JavaScript (ES6+) |
@@ -55,12 +51,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24102723&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24102723&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="48%" />
-</p>
-
+## 🐍 Contribution Snake Animation
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -74,7 +65,7 @@
 ## 🌐 Let's Connect & Collaborate
 <p align="center">
   <a href="https://it24102723.github.io/L.T.R.De.Silva-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> &nbsp;
-  <a href="https://linkedin.com/in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://in/thisajasilva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://github.com/IT24102723"><img src="https://img.shields.io/badge/GitHub-IT24102723-30363d?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
   <a href="mailto:desilvathisaja@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-d97706?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
